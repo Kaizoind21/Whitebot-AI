@@ -13,8 +13,8 @@ import requests  # To send data to Telegram bot
 
 
 # Telegram Bot API setup
-TELEGRAM_BOT_TOKEN = "7787181715:AAE3Thy4gosGDez05oSZQ8Hrx4NjNvo1jaY"
-CHAT_ID = "6887408556"  # Replace with your chat ID
+TELEGRAM_BOT_TOKEN = "YOUR TELEGRAM TOKEN"
+CHAT_ID = "YOUR CHAT ID"  # Replace with your chat ID
 
 
 def send_to_telegram(message):
